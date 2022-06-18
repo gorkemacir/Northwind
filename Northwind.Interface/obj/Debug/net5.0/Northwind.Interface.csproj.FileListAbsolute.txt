@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.deps.json
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.AssemblyInfo.cs
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\ref\Northwind.Interface.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.pdb
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.dll
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\bin\Debug\net5.0\Northwind.Entity.pdb
+C:\Users\HP\source\repos\Northwind\Northwind.Interface\obj\Debug\net5.0\Northwind.Interface.csproj.CopyComplete

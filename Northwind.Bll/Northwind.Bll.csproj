@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Northwind.Dal\Northwind.Dal.csproj" />
+    <ProjectReference Include="..\Northwind.Entity\Northwind.Entity.csproj" />
+    <ProjectReference Include="..\Northwind.Interface\Northwind.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
